@@ -1,12 +1,28 @@
 # IA-t-l-travail-service
-# IA Télétravail — Projet Netlify
+IA Télétravail
 
-Projet frontend prêt à être importé dans Netlify.
+Plateforme de missions à distance assistée par l’intelligence artificielle.
 
-## Déploiement
-1. Importer ce dossier/projet dans Netlify.
-2. Laisser le dossier publié sur `.`.
-3. Déployer.
-4. Vérifier l'URL Netlify.
+👤 Espace Travailleur
 
-Cette version est le frontend de présentation. Le backend, PostgreSQL, authentification réelle, paiements et IA serveur doivent être connectés avant une ouverture production.
+Profil, CV, missions, candidatures, réalisation, formations, paiements et assistant IA.
+
+Accéder
+🏢 Espace Administrateur / Entreprise
+
+Publier des missions, rechercher des travailleurs, sélectionner, suivre et valider les travaux.
+
+Accéder
+Comment ça fonctionne ?
+
+L’entreprise publie une mission.
+Le travailleur candidate.
+L’entreprise sélectionne.
+Le travailleur réalise la mission.
+L’entreprise vérifie et valide.
+Facturation et paiement selon les conditions contractuelles.
+🤖 Assistance IA
+
+L’IA peut aider à comprendre une mission, préparer une candidature, améliorer un CV et assister l’entreprise.
+
+Les fonctions IA et les paiements réels doivent être connectés côté serveur avant la production.
