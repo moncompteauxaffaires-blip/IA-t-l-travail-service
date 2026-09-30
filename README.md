@@ -1,4 +1,4 @@
-# IA-t-l-travail-service
+# IA-teletravail-service
 IA Télétravail
 
 Plateforme de missions à distance assistée par l’intelligence artificielle.
